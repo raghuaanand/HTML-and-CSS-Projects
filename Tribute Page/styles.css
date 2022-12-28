@@ -1,0 +1,76 @@
+
+body{
+    background-color: rgba(0, 128, 0, 0.637);
+}
+img{
+    border-radius: 25px;
+    border: 3px solid rgba(0, 0, 0, 0.315);
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.heading{
+    text-align: center;
+}
+.container{
+    width: 500px;
+    height: auto;
+    padding: 20px;
+    margin: 20px auto;
+    background-color: rgba(0, 255, 255, 0.493);
+    border-radius: 25px;
+    border-right: 3px solid rgba(0, 0, 0, 0.582);
+    border-bottom: 3px solid rgba(0, 0, 0, 0.582);
+}
+.block{
+    font-size: 25px;
+    font-style: italic;
+    font-family: cursive;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.849);
+    background-color: rgba(228, 23, 23, 0.911);
+    border-right: 3px solid rgba(0, 0, 0, 0.397);
+    border-bottom: 3px solid rgba(0, 0, 0, 0.397);
+    border-radius: 25px;
+    margin: 20px 100px 15px 100px;
+    text-shadow: 2px 3px 0px rgba(14, 13, 13, 0.973);
+}
+.paragraph{
+    padding: 20px;
+    font-family: Calibri, sans-serif;
+    font-size: 18px;
+    font-weight: 900;
+    background-color: rgba(255, 255, 255, 0.507);
+    border-right: 3px solid rgba(0, 0, 0, 0.397);
+    border-bottom: 3px solid rgba(0, 0, 0, 0.397);
+    border-radius: 25px;
+}
+.link{
+    text-align: center;
+    text-decoration: none;
+}
+.copyright{
+    text-align: center;
+}
+h1{
+    font-family: 'Kaushan Script', cursive;
+    font-size: 40px;
+    text-shadow: 3px 0px 5px #000;
+    color: rgba(233, 120, 14, 0.815);
+    background-color: rgba(132, 88, 212, 0.534);
+    margin: 10px 40%;
+    border-radius: 20px;
+    border-right: 3px solid rgba(0, 0, 0, 0.397);
+    border-bottom: 3px solid rgba(0, 0, 0, 0.397);
+}
+h2{
+    font-family: 'Kaushan Script', cursive;
+    font-size: 40px;
+    text-shadow: 3px 0px 5px #000;
+    color: rgba(245, 241, 236, 0.733);
+    background-color: rgba(132, 88, 212, 0.534);
+    margin: 10px 30%;
+    border-radius: 20px;
+    border-right: 3px solid rgba(0, 0, 0, 0.397);
+    border-bottom: 3px solid rgba(0, 0, 0, 0.397);
+}
